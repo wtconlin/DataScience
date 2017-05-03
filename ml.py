@@ -1,4 +1,4 @@
-# Will Conlin, Basic Machine Learning Example
+# Will Conlin, Basic Machine Learning
 
 import numpy as np
 import pandas as pd
